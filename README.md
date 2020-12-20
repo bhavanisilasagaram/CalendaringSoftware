@@ -3,14 +3,24 @@ In today’s world most of us are dependent on the calendar for various purposes
 
 USE CASES : 
 
-Register into the software.
+Register into the software 
+
 If already registered, log into the software.
+
 View the calendar of the month.
+
 View the calendar of the year.
+
 Find the day of the week with the given date on the console
+
 View the occupied days in the calendar with some sort of distinction
+
 View or add notes
+
 Prepare or edit the to-do list
+
 Prompt the system to Check for over-lapping events    
+
 Set remainders 
+
 Prompt the system to display the current time
